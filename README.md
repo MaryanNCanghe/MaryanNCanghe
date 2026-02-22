@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MaryanNCanghe
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently improving my skills in  3JS React|JS| MYsql >..
-- 📫 How to reach me mariancanghe@gmail.com
+- 📫 How to reach me hello@mariancanha.com
